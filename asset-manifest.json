@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vidly/static/css/main.07c7bab9.chunk.css",
+    "main.js": "/vidly/static/js/main.c8a63792.chunk.js",
+    "main.js.map": "/vidly/static/js/main.c8a63792.chunk.js.map",
+    "runtime~main.js": "/vidly/static/js/runtime~main.287d4b85.js",
+    "runtime~main.js.map": "/vidly/static/js/runtime~main.287d4b85.js.map",
+    "static/css/2.78fe7d83.chunk.css": "/vidly/static/css/2.78fe7d83.chunk.css",
+    "static/js/2.2f145fc0.chunk.js": "/vidly/static/js/2.2f145fc0.chunk.js",
+    "static/js/2.2f145fc0.chunk.js.map": "/vidly/static/js/2.2f145fc0.chunk.js.map",
+    "index.html": "/vidly/index.html",
+    "precache-manifest.7ad62461ec85f67c5e871f3a678c5b58.js": "/vidly/precache-manifest.7ad62461ec85f67c5e871f3a678c5b58.js",
+    "service-worker.js": "/vidly/service-worker.js",
+    "static/css/2.78fe7d83.chunk.css.map": "/vidly/static/css/2.78fe7d83.chunk.css.map",
+    "static/css/main.07c7bab9.chunk.css.map": "/vidly/static/css/main.07c7bab9.chunk.css.map",
+    "static/media/all.css": "/vidly/static/media/fa-solid-900.f9b8a1aa.eot"
+  }
+}
