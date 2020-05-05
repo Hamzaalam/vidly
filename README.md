@@ -1,5 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project [LIVE DEMO](https://hamzaalam.github.io/vidly).
 
+![Image of vidly]
+(https://github.com/Hamzaalam/vidly/blob/master/vidly.png)
 ## Available Scripts
 
 In the project directory, you can run:
